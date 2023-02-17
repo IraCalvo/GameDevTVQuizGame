@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d1adbb8925773ac45b02264e95a012c1
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Prisma
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4246352b9e267a84da1069bfd00524a6, type: 3}
+  - {fileID: 12800000, guid: 91cf7bd77149f1048a34327c10c31d0d, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
